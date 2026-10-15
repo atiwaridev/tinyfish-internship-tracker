@@ -1,0 +1,11 @@
+venv/
+.venv/
+env/
+__pycache__/
+*.py[cod]
+.env
+.streamlit/secrets.toml
+.DS_Store
+.vscode/
+node_modules/
+frontend/node_modules/
